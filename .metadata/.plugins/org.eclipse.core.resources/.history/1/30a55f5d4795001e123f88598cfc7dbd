@@ -1,0 +1,20 @@
+package estructuras_de_control;
+/*
+ * 	do{
+ * 		accion1;
+ * 		accion2;
+ * 	}while(condicion)
+ * 
+ * El ciclo itera mientras se verifique la CONDICION
+ * La entrada al ciclo no esta condicionada
+ * Las acciones dentro del bloque do, se ejecutaran al menos una vez
+ */
+import java.util.Scanner;
+public class EstructuraIterativaDOWHILE {
+
+	public static void main(String[] args) {
+		//Ejemplo: Muestra numeros naturales (do-while)
+		Scanner scanner = new Scanner(System.in);
+	}
+
+}

@@ -1,0 +1,18 @@
+package estructuras_de_control;
+/*
+ * 1.3.5
+ * 
+ * 	while(condicion){
+ * 	
+ * 	}
+ * El ciclo itera mientras CONDICION resulte verdadera (true)
+ */
+import java.util.Scanner;
+public class EstructuraIterativaWHILE {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner (System.in);
+
+	}
+
+}

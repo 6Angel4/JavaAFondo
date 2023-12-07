@@ -1,0 +1,17 @@
+package estructuras_de_control;
+/*
+ * 	for(inicializacion;condicion;incremento){
+ * 		accion1;
+ * 		accion2;
+ * 	}
+ * 
+ * Primero se define e inicializa una variable
+ */
+public class EstructuraIterativaFOR {
+
+	public static void main(String[] args) {
+		// 
+
+	}
+
+}
