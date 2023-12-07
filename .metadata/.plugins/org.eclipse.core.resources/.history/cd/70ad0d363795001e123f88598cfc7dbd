@@ -1,0 +1,11 @@
+package estructuras_de_control;
+/*
+ * 	condicion ? retornoPorTrue : retornoPorFalse
+ */
+public class EstructuraDeDecisionITERNARIO {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

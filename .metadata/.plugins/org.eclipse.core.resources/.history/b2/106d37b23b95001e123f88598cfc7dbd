@@ -1,0 +1,23 @@
+package estructuras_de_control;
+/*
+ * switch (valorEntrada){
+ * 	case valor1:
+ * 		ACCION1
+ * 		ACCION2
+ * 		break;
+ * 	default:
+ * 		masAcciones;
+ * }
+ * 
+ * Dependiendo del valor de entrada, el programa ingresara por el case cuyo valor
+ * coincide con el de la variable.
+ * Se ejecutaran las ACCIONES hasta que encuentre la sentencia break;
+ * 
+ */
+public class EstructuraDeDecisionSWITCH {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

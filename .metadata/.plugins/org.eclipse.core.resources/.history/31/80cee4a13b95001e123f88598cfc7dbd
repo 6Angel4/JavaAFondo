@@ -1,0 +1,21 @@
+package estructuras_de_control;
+/*
+ * switch (valorEntrada){
+ * 	case valor1:
+ * 		ACCION1
+ * 		ACCION2
+ * 		break;
+ * 	default:
+ * 		masAcciones;
+ * }
+ * 
+ * Dependiendo del valor de entrada, el programa ingresara por el case
+ */
+public class EstructuraDeDecisionSWITCH {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

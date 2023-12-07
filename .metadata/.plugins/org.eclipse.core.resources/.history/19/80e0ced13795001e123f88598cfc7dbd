@@ -1,0 +1,15 @@
+package estructuras_de_control;
+/*
+ * 	condicion ? retornoPorTrue : retornoPorFalse
+ * 
+ * Se verifica la CONDICION entonces
+ * RETORNA la expresion ubicada entre el ? (signo de interrogacion) y : (dos puntos)
+ * Si la condicion es falsa RETORNA  la expresion ubicada despues de los : (dos puntos)
+ */
+public class EstructuraDeDecisionITERNARIO {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,14 @@
+package estructuras_de_control;
+/*
+ * Elabora un programa que pida al usuario ingresar un valor ENTERO e indica
+ * si el valor ingresado es par o impar
+ */
+import java.util.Scanner;
+public class Ejercicio_2 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

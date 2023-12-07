@@ -1,0 +1,19 @@
+package estructuras_de_control;
+/*
+ * switch (variable){
+ * 	case valor1:
+ * 		ACCION1
+ * 		ACCION2
+ * 		break;
+ * 	default:
+ * 		masAcciones;
+ * }
+ */
+public class EstructuraDeDecisionSWITCH {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
