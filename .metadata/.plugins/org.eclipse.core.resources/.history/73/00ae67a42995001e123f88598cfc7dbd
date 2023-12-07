@@ -1,0 +1,13 @@
+package comencemos_a_programar;
+/**
+ * 1.2 Comencemos a programar
+ */
+public class HolaMundo {
+
+	public static void main(String[] args) {
+		//Crear un "Hola Mundo !!"
+		System.out.println("Hola Mundo !!!");
+
+	}
+
+}

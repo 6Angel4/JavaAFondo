@@ -1,0 +1,32 @@
+package estructuras_de_control;
+
+/**
+ * 	Lectura de datos por consola
+ * 	
+ * 	En el siguiente programa pedir al usuario que ingrese su nombre
+ * 	Leer el dato por teclado y luego lo muestra en la consola
+ */
+
+//opcion 1 para input
+import java.util.Scanner;
+//opcion 2 para input
+import javax.swing.JOptionPane;
+
+public class input_output {
+
+	public static void main(String[] args) {
+		// Esta clase permite leer datos por teclado
+		Scanner scanner = new Scanner(System.in);
+		
+		// Mensaje para el usuario
+		System.out.println("Ingrese su nombre: ");
+		
+		// Leemos un valor por teclado
+		String nombreOpcion1 = scanner.nextLine();
+		
+		//Mostramos un mensaje y luego el valor leido
+		System.out.println("Saludos "+nombreOpcion1+" estas usando la clase Scanner");
+		
+	}
+
+}

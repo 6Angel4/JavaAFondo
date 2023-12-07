@@ -1,0 +1,15 @@
+package estructuras_de_control;
+/*
+ * 	if(condicion){
+ * 		accion;
+ * 	}else{
+ * 		accion2;
+ * 	}
+ */
+public class EstructurasDeDecisionIF {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

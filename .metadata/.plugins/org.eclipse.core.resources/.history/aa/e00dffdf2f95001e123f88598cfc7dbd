@@ -1,0 +1,16 @@
+package estructuras_de_control;
+
+public class DefinicionDeVariables {
+
+	public static void main(String[] args) {
+		/**
+		 * 	Identificadores  validos
+		 * 	
+		 * 	fecha
+		 * 	iFecha
+		 * 	fechaNacimiento
+		 * 	fecha_nacimiento	
+		 */
+	}
+
+}

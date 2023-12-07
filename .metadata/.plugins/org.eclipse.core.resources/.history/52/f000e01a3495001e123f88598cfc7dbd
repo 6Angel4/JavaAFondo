@@ -1,0 +1,26 @@
+package estructuras_de_control;
+/*
+ * 	1.3.4
+ * 
+ * 	if(condicion){
+ * 		accion1;
+ * 	}else{
+ * 		accion2;
+ * 	}
+ */
+import java.util.Scanenr;
+public class EstructurasDeDecisionIF {
+
+	public static void main(String[] args) {
+		//	Ejemplo: ¿Es mayor a 21 años?
+		
+		/*
+		 * En el siguiente ejemplo, utilizamos un if para determinar si el valor (edad)
+		 * ingresado por el usuario es mayor o igual que 21
+		 */
+		
+		
+		
+	}
+
+}

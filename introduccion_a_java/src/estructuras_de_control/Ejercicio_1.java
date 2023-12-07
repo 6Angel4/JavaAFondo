@@ -1,0 +1,33 @@
+package estructuras_de_control;
+/*
+ * Elaborar un programa que pida al usuario lo siguiente:
+ * 	nombre
+ * 	edad
+ * 	altura
+ * Estos datos deben ingresarse separados por un espacio en blanco 
+ * Luego los muestra por consola
+ */
+
+//importamos Scanner
+import java.util.Scanner;
+public class Ejercicio_1 {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		// Mensaje para el usuario
+		System.out.print("Ingrese: nombre, edad y altura");
+		
+		// leemos nombre
+		String nombre = scanner.next();
+		// leemos edad
+		int edad = scanner.nextInt();
+		// leemos altura
+		double altura = scanner.nextDouble();
+		
+		// Mostramos los datos por consola
+		System.out.println("Nombre: "+nombre+" Edad: "+edad+" Altura:"+altura);
+		
+	}
+
+}

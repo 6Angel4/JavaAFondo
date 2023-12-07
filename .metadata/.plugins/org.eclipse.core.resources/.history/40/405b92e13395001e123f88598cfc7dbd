@@ -1,0 +1,16 @@
+package estructuras_de_control;
+/*
+ * 	if(condicion){
+ * 		accion1;
+ * 	}else{
+ * 		accion2;
+ * 	}
+ */
+public class EstructurasDeDecisionIF {
+
+	public static void main(String[] args) {
+		//	Ejemplo: ¿Es mayor a 21 años?
+		
+	}
+
+}

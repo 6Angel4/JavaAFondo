@@ -1,0 +1,11 @@
+package estructuras_de_control;
+/*
+ * Elaborar un programa que pida al usuario lo siguiente
+ */
+public class Ejercicio_1 {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

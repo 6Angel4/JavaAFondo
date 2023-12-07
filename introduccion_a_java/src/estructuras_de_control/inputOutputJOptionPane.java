@@ -1,0 +1,42 @@
+package estructuras_de_control;
+
+/**
+ * 	1.3.1 (extra)
+ * 
+ * 	Realizar la entrada y salida de datos de manera mas grafica
+ * 	Esto se logra con JOptionPane.showInputDialog("Texto aqui"); para el input
+ * 	showMessageDialog(null,"mensaje"+variable) para el output
+ *	Recordar que lo que se ingrese se considera del tipo String
+ *	Se requiere hacer una conversion si se va a manejar otro tipo de dato 
+ */
+
+//
+import javax.swing.JOptionPane;
+
+public class inputOutputJOptionPane {
+
+	public static void main(String[] args) {
+		
+		//	Declaramos variables para hacer pruebas
+		String cadena;	
+		int entero;
+		char letra;
+		double decimal;
+		
+		// Pedir con un mensaje que se ingrese un valor
+		cadena = JOptionPane.showInputDialog("Digite una cadena: ");
+		// Convertir de String a Int
+		entero = Integer.parseInt(JOptionPane.showInputDialog("Digite un entero: "));
+		// Solo almacenar o guardar el primer caracter (indicec 0) con charAt() 
+		letra = JOptionPane.showInputDialog("Ingresa un caracter: ").charAt(0);
+		// Convertir de String a Double
+		decimal = Double.parseDouble(JOptionPane.showInputDialog("Ingresa un numero decimal: "));
+		
+		//Mostrar los datos
+		JOptionPane.showMessageDialog(null, "La cadena es: "+cadena);
+		JOptionPane.showMessageDialog(null, "El entero es: "+entero);
+		JOptionPane.showMessageDialog(null, "El caracter es: "+letra);
+		JOptionPane.showMessageDialog(null, "El decimal es: "+decimal);
+	}
+
+}
