@@ -1,0 +1,21 @@
+package otros_elementos_del_lenguaje;
+/*
+ * Las constantes se definen fuera de los metodos
+ * Se utiliza el MODIFICADOR final
+ */
+public class DeficionDeConstantes {
+	// definimos las constantes
+	public static final int LUNES = 1;
+	public static final int MARTES = 1;
+	public static final int MIERCOLES = 1;
+	public static final int JUEVES = 1;
+	public static final int VIERNES = 1;
+	public static final int SABADO = 1;
+	public static final int DOMINGO = 1;
+	
+	public static void main(String[] args) {
+		// 
+
+	}
+
+}

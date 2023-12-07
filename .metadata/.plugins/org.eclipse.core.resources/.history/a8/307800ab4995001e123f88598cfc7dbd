@@ -1,0 +1,15 @@
+package otros_elementos_del_lenguaje;
+/*
+ * Las constantes se definen fuera de los metodos
+ * Se utiliza el MODIFICADOR final
+ */
+public class DeficionDeConstantes {
+	// definimos las constantes
+	
+	
+	public static void main(String[] args) {
+		// 
+
+	}
+
+}

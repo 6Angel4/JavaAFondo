@@ -1,0 +1,10 @@
+package otros_elementos_del_lenguaje;
+
+public class DeficionDeConstantes {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
