@@ -1,0 +1,12 @@
+/.metadata/
+/JAF/.settings/
+/JAF/bin/
+/JAF/.classpath/
+/JAF/.project/
+
+# No ignorar los directorios específicos
+!/Comentarios/
+!/DefinicionDeVariables/
+!/Ejercicios/
+!/EstructurasDeDecision/
+!/InputOutput/
