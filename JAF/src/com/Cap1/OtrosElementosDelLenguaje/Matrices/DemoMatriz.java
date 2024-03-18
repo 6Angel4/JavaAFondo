@@ -1,4 +1,4 @@
-package com.Cap1.EstructurasDeControl.Matrices;
+package com.Cap1.OtrosElementosDelLenguaje.Matrices;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.Cap1.EstructurasDeControl.Ejercicios;
+package com.Cap1.Ejercicios;
 import java.util.Scanner;
 public class UsoDeArrays {
 	public static void main(String[] args) {

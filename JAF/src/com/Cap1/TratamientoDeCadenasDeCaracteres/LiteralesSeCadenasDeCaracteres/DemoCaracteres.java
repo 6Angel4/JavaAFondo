@@ -1,4 +1,4 @@
-package com.Cap1.EstructurasDeControl.LiteralesSeCadenasDeCaracteres;
+package com.Cap1.TratamientoDeCadenasDeCaracteres.LiteralesSeCadenasDeCaracteres;
 /*
  * 1.4.6 Literales de cadenas de caracteres
  */

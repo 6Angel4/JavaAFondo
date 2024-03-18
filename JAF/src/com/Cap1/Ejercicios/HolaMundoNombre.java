@@ -1,4 +1,4 @@
-package com.Cap1.EstructurasDeControl.Ejercicios;
+package com.Cap1.Ejercicios;
 
 /*
  * El siguiente programa pide al usuario que ingrese su nombre, edad y altura. Estos

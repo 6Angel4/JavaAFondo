@@ -1,4 +1,4 @@
-package com.Cap1.EstructurasDeControl.Arrays;
+package com.Cap1.OtrosElementosDelLenguaje.Arrays;
 
 import java.util.Scanner;
 
